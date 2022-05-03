@@ -18,9 +18,9 @@ for set_ in names_of_sets:
 		path_to_file = os.path.join(path_to_set, str(number_of_elements) + '.csv')
 		data = []
 		for _ in range(number_of_elements):
-			data.append(r.randint(1, border))
+			data.append(r.randint(-border, border))
 		
 		with open(path_to_file, "w", newline='') as file:
-			writer = csv.writer(file, delimiter='\n')
+			writer = csv.writer(file, delimiter=';')
 			writer.writerow(data)
 
