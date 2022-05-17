@@ -3,7 +3,7 @@ import os
 from numpy import random as r
 
 names_of_sets = [f'{i}' for i in range(100)]
-number_of_elements_list = [_ for _ in range(3, 15)]
+number_of_elements_list = [_ for _ in range(1, 12)]
 border = 1000
 
 path_to_dataset = os.path.join(os.getcwd(), "data")
