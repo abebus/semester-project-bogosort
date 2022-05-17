@@ -1,4 +1,4 @@
-# semester-project-circular-buffer
+# semester-project-bogosort
 
 
 - _Bogosort_
