@@ -22,4 +22,5 @@
 > _чинчанчончин_
 
 ## Google Drive: 
-https://drive.google.com/drive/folders/1yp67seXXxgvx2RGtvgkK1WuS5z_95Uiq
+https://drive.google.com/drive/folders/1yp67seXXxgvx2RGtvgkK1WuS5z_95Uiq (недоделоный)
+https://drive.google.com/drive/folders/1Gtvr9d_sjWEWbrDy1xn34HviMeooxdut (дедлайновский)
